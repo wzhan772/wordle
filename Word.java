@@ -1,6 +1,5 @@
 /**
  * this class represents a word in the game that is made up of any number of letters
- * @author William Zhang 251215208
  *
  */
 public class Word {
