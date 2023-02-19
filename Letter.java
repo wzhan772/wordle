@@ -1,6 +1,5 @@
 /**
  * this class represents a single letter that will be used in the game 
- * @author William Zhang 251215208
  *
  */
 public class Letter {
