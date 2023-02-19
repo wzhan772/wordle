@@ -1,6 +1,5 @@
 /**
  * this class represents a subclass of Letter and adds additional features to the game
- * @author William Zhang 251215208
  *
  */
 public class ExtendedLetter extends Letter{
