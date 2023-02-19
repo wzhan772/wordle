@@ -1,6 +1,5 @@
 /**
  * this class stores the mystery word along with all of the subsequent guessed that have occured
- * @author William Zhang 251215208
  *
  */
 public class WordLL {
